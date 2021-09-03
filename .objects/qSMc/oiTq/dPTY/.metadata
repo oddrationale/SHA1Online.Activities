@@ -1,0 +1,12 @@
+﻿{
+  "Id": "dPTY8H1f1UuzFjO2XVFLdg",
+  "Reference": "4t2aKNQ6eUCGMg0yKOb5lg/dPTY8H1f1UuzFjO2XVFLdg",
+  "ParentRef": "4t2aKNQ6eUCGMg0yKOb5lg/oiTqAavVOkq-vetpSCBZPA",
+  "Name": "Home",
+  "Type": "Screen",
+  "Created": "2020-10-09T16:30:55.916786Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-10-09T16:30:55.916786Z"
+}

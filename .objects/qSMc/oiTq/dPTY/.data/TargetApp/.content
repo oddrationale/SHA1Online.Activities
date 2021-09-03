@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Edge" ContentHash="VY5LMNyzJkOBH_OajnmuOA" Selector="&lt;html app='msedge.exe' title='SHA1 online' /&gt;" Url="http://www.sha1-online.com/" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0Y-LWGQ-nP0W-3NRklpUc9A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="84953e60ea41a0146f0d028468490f18.png" xmlns="">0_rPtwh_1nUe2QF6YK3l02Q</imageRef>
+</TargetApp>

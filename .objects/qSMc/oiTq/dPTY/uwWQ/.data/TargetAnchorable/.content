@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://www.sha1-online.com/" ContentHash="JVn_biKzX0-MOs_70F1TPg" DesignTimeRectangle="1102, 260, 47, 21" ElementType="Button" FriendlyName="'hash'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='submit' aaname='hash' check:text='hash' /&gt;" Reference="4t2aKNQ6eUCGMg0yKOb5lg/uwWQjozyXEGocU0obuU4pw" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA1 online' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0iSDvGuMIh0OrrDnB3JhYkw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="326b9539e13ea7d55608f951889b348f.png" xmlns="">0KOBJYUAQiUSR8wxKAN1rrA</imageRef>
+</TargetAnchorable>
